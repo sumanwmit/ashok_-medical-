@@ -1,0 +1,146 @@
+[
+  {
+    "medicineName": "Calpol 650mg",
+    "brand": "GlaxoSmithKline (GSK)",
+    "mrp": 33.60,
+    "availableQuantity": 150,
+    "expiry": "08/2028",
+    "status": "Available",
+    "category": "OTC Medicines"
+  },
+  {
+    "medicineName": "Pantocid 40mg",
+    "brand": "Sun Pharmaceutical Industries",
+    "mrp": 164.50,
+    "availableQuantity": 85,
+    "expiry": "11/2027",
+    "status": "Available",
+    "category": "Prescription Medicines"
+  },
+  {
+    "medicineName": "Amoxyclav 625 DUO",
+    "brand": "Alkem Laboratories Ltd",
+    "mrp": 223.10,
+    "availableQuantity": 4,
+    "expiry": "04/2027",
+    "status": "Limited Stock",
+    "category": "Prescription Medicines"
+  },
+  {
+    "medicineName": "Metformin (Glycomet 500)",
+    "brand": "USV Private Limited",
+    "mrp": 24.30,
+    "availableQuantity": 200,
+    "expiry": "09/2028",
+    "status": "Available",
+    "category": "Prescription Medicines"
+  },
+  {
+    "medicineName": "Telma 40mg",
+    "brand": "Glenmark Pharmaceuticals",
+    "mrp": 112.00,
+    "availableQuantity": 0,
+    "expiry": "01/2027",
+    "status": "Out of Stock",
+    "category": "Prescription Medicines"
+  },
+  {
+    "medicineName": "Cetirizine (Alerid 10mg)",
+    "brand": "Cipla Ltd",
+    "mrp": 22.80,
+    "availableQuantity": 120,
+    "expiry": "03/2028",
+    "status": "Available",
+    "category": "OTC Medicines"
+  },
+  {
+    "medicineName": "Becosules Capsules",
+    "brand": "Pfizer Limited",
+    "mrp": 50.20,
+    "availableQuantity": 180,
+    "expiry": "12/2028",
+    "status": "Available",
+    "category": "Supplements"
+  },
+  {
+    "medicineName": "Volini Pain Relief Gel (50g)",
+    "brand": "Sun Pharmaceutical Industries",
+    "mrp": 185.00,
+    "availableQuantity": 40,
+    "expiry": "10/2027",
+    "status": "Available",
+    "category": "Healthcare Products"
+  },
+  {
+    "medicineName": "Dettol Antiseptic Liquid (250ml)",
+    "brand": "Reckitt Benckiser",
+    "mrp": 142.00,
+    "availableQuantity": 30,
+    "expiry": "06/2028",
+    "status": "Available",
+    "category": "Personal Care"
+  },
+  {
+    "medicineName": "Electral ORS Powder (21.8g)",
+    "brand": "FDC Limited",
+    "mrp": 22.50,
+    "availableQuantity": 250,
+    "expiry": "05/2028",
+    "status": "Available",
+    "category": "OTC Medicines"
+  },
+  {
+    "medicineName": "Himalaya Baby Powder (200g)",
+    "brand": "The Himalaya Drug Company",
+    "mrp": 165.00,
+    "availableQuantity": 15,
+    "expiry": "02/2028",
+    "status": "Available",
+    "category": "Baby Care"
+  },
+  {
+    "medicineName": "Omeprazole (Omez 20mg)",
+    "brand": "Dr. Reddy's Laboratories",
+    "mrp": 63.40,
+    "availableQuantity": 5,
+    "expiry": "07/2027",
+    "status": "Limited Stock",
+    "category": "Prescription Medicines"
+  },
+  {
+    "medicineName": "Azithromycin (Azee 500mg)",
+    "brand": "Cipla Ltd",
+    "mrp": 131.50,
+    "availableQuantity": 90,
+    "expiry": "05/2027",
+    "status": "Available",
+    "category": "Prescription Medicines"
+  },
+  {
+    "medicineName": "Omeron (Digital BP Monitor)",
+    "brand": "Omron Healthcare",
+    "mrp": 2450.00,
+    "availableQuantity": 8,
+    "expiry": "N/A",
+    "status": "Available",
+    "category": "Medical Equipment"
+  },
+  {
+    "medicineName": "OneTouch Verio Test Strips (50s)",
+    "brand": "LifeScan Scotland",
+    "mrp": 1150.00,
+    "availableQuantity": 12,
+    "expiry": "09/2027",
+    "status": "Available",
+    "category": "Health Devices"
+  },
+  {
+    "medicineName": "Dexorange Syrup (200ml)",
+    "brand": "Franco-Indian Pharmaceuticals",
+    "mrp": 174.00,
+    "availableQuantity": 0,
+    "expiry": "11/2026",
+    "status": "Out of Stock",
+    "category": "Supplements"
+  }
+]
