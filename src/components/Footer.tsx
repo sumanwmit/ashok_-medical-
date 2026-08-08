@@ -260,16 +260,8 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} <strong>Ashok Medical Hall</strong>. All rights reserved. Registered Pharmacist Lic No: BR-GAY-72110.
           </p>
           <div className="flex items-center gap-1">
-            <span>Developed by</span>
-            <a
-              href="https://main.webmakerit.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-[#0A8F6A] hover:text-[#087a5a] font-bold transition-colors"
-              id="wmit-dev-link"
-            >
-              WMIT
-            </a>
+            <span></span>
+            <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
           </div>
         </div>
 
